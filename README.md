@@ -1,4 +1,8 @@
-﻿# 1.主要范式
+﻿# 0.文献目录
+## 0.1 综述型文献
+- [非侵入式脑机接口控制策略的研究进展](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9927724/)
+- [非侵入式脑—机接口编解码技术研究进展](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=230031)
+# 1.主要范式
 介绍视频：[清华大学 高小榕教授](https://www.bilibili.com/video/BV1Kk4y1r7R8/)
 ## 1.1ERP事件相关电位
 ### 1.1.1P300
